@@ -3,7 +3,7 @@
 > It uses a pre-trained plda model from the Kaldi recipe and generates PLDA scores using X-vectors of one recording from CALLHOME dataset.  
 > It compares the scores with cosine similarity scores.
 
-## Prerequisites:
+## Prerequisites
 Python >= 3.6
 
 ## Implementation
